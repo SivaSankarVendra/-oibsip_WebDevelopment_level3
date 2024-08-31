@@ -1,0 +1,134 @@
+[
+    {
+        "Category": "Veg",
+        "name": "Margherita",
+        "img": "https://www.dominos.co.in/files/items/Margherit.jpg",
+        "options": [
+            {
+                "Regular": "109",
+                "Medium": "245",
+                "Large":"455"
+            }
+        ]
+    },
+    {
+        "Category": "Veg",
+        "name": "Farm House",
+        "img": "https://www.dominos.co.in/files/items/Farmhouse.jpg",
+        "options": [
+            {
+                "Regular": "265",
+                "Medium": "469",
+                "Large":"705"
+            }
+        ]
+    },
+    {
+        "Category": "Veg",
+        "name": "Peppy Paneer",
+        "img": "https://www.dominos.co.in//files/items/Peppy_Paneer.jpg",
+        "options": [
+            {
+                "Regular": "265",
+                "Medium": "419",
+                "Large":"705"
+            }
+        ]
+    },
+    {
+        "Category": "Veg",
+        "name": "Mexican Green Wave",
+        "img": "https://www.dominos.co.in//files/items/Mexican_Green_Wave.jpg",
+        "options": [
+            {
+                "Regular": "265",
+                "Medium": "469",
+                "Large":"705"
+            }
+        ]
+    },
+    {
+        "Category": "Veg",
+        "name": "Deluxe Veggie",
+        "img": "https://www.dominos.co.in//files/items/Deluxe_Veggie.jpg",
+        "options": [
+            {
+                "Regular": "219",
+                "Medium": "385",
+                "Large":"619"
+            }
+        ]
+    },
+    {
+        "Category": "Non-Veg",
+        "name": "Chicken Golden Delight",
+        "img": "https://www.dominos.co.in//files/items/MicrosoftTeams-image_(14).png",
+        "options": [
+            {
+                "Regular": "279",
+                "Medium": "499",
+                "Large":"729"
+            }
+        ]
+    },
+    {
+        "Category": "Non-Veg",
+        "name": "Non Veg Supreme",
+        "img": "https://www.dominos.co.in//files/items/MicrosoftTeams-image_(13).png",
+        "options": [
+            {
+                "Regular": "365",
+                "Medium": "609",
+                "Large":"935"
+            }
+        ]
+    },
+    {
+        "Category": "Non-Veg",
+        "name": "Chicken Dominator",
+        "img": "https://www.dominos.co.in//files/items/MicrosoftTeams-image_(11).png",
+        "options": [
+            {
+                "Regular": "365",
+                "Medium": "609",
+                "Large":"935"
+            }
+        ]
+    },
+    {
+        "Category": "Non-Veg",
+        "name": "Pepper Barbecue Chicken",
+        "img": "https://www.dominos.co.in//files/items/MicrosoftTeams-image_(15).png",
+        "options": [
+            {
+                "Regular": "255",
+                "Medium": "455",
+                "Large":"679"
+            }
+        ]
+    },
+    {
+        "Category": "Non-Veg",
+        "name": "Indi Chicken Tikka",
+        "img": "https://www.dominos.co.in//files/items/MicrosoftTeams-image_(18).png",
+        "options": [
+            {
+                "Regular": "339",
+                "Medium": "599",
+                "Large":"879"
+            }
+        ]
+    },
+    {
+        "Category": "Non-Veg",
+        "name": "Chicken Pepperoni",
+        "img": "https://www.dominos.co.in//files/items/MicrosoftTeams-image_(20).png",
+        "options": [
+            {
+                "Regular": "365",
+                "Medium": "609",
+                "Large":"935"
+            }
+        ]
+    }
+]
